@@ -4,7 +4,7 @@ export const site = {
     description: 'Tuuleac的个人主页',
     keywords: 'Tuuleac',
     favicon: '/favicon.ico',
-    url: 'https://teac9.github.io'
+    url: 'https://tape.de5.net'
 }
 export const footer = {
     beian: {
