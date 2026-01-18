@@ -1,19 +1,19 @@
 export const site = {
-    author: 'DORAKIKA',
-    slogan: '热爱漫无边际，生活自有分寸',
-    description: '',
-    keywords: '',
+    author: 'Tuuleac',
+    slogan: '看万山红遍，层林尽染；漫江碧透，百舸争流。',
+    description: 'Tuuleac的个人主页',
+    keywords: 'Tuuleac',
     favicon: '/favicon.ico',
-    url: 'https://dorakika.cn'
+    url: 'https://teac9.github.io'
 }
 export const footer = {
     beian: {
-        enabled: true,
-        value: '皖ICP备2022003488号'
+        enabled: false,
+        value: ''
     },
     live: {
         enabled: true,
-        from: '2023-02-26'
+        from: '2026-01-18'
     }
 }
 export const navs = [
@@ -41,14 +41,13 @@ export const aboutMe = {
         '💻 前端开发工程师'
     ],
     right_tags: [
-        '哆啦A梦一份子  🥳',
         '吃饭睡觉打游戏 🎮',
         '热爱漫无边际 ✨'
     ]
 }
 
 export const project = {
-    github_name: 'dorakika',
+    github_name: 'teac9',
     filter_readme: true,
     filter_fork: true
 }
@@ -60,15 +59,15 @@ export const mediaLink = {
         {
             name: 'Github',
             icon: '/svg/github.svg',
-            href: 'https://github.com/dorakika'
+            href: 'https://github.com/teac9'
         },{
             name: '博客',
             icon: '/images/blog.dorakika.cn.png',
-            href: 'https://blog.dorakika.cn'
+            href: 'https://tuule.dpdns.org'
         },{
             name: 'mail',
             icon: '/svg/mail.svg',
-            href: 'mailto:dorakika@163.com'
+            href: 'mailto:yuzhew784@gmail.com'
         }
     ]
 }
